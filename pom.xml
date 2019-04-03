@@ -14,7 +14,8 @@
      </snapshotRepository>
   </distributionManagement>
   <scm>
-  <connection> scm:git:git:https://github.com/BourezguiM/TrainingMaven.git</connection>
+  <connection> scm:git:git:https://github.com/BourezguiM/Gittraining.git
+</connection>
     <tag>game.looping-0.0.1</tag>
   </scm>
   <dependencies>
