@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>lets.develop</groupId>
   <artifactId>game.looping</artifactId>
-  <version>0.0.1</version>
+  <version>1.0.1</version>
   <distributionManagement>
      <repository>
          <id>ftp-letsdeveloper-release</id>
@@ -16,7 +16,7 @@
   <scm>
   <connection> scm:git:git:https://github.com/BourezguiM/Gittraining.git
 </connection>
-    <tag>game.looping-0.0.1</tag>
+    <tag>2</tag>
   </scm>
   <dependencies>
   	<dependency>
